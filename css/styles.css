@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+.img{
+    width: 300px;
+    height:50px;
+}
+/*.carousel-inner .carousel-item{*/
+    /*height: 512px;*/
+/*}*/
+/*.about{*/
+    /*height: 500px;*/
+/*}*/
+.s_card{
+    transition: all 0.5s;
+}
+.s_card:hover{
+    background-color: lightsalmon;
+    transform: scale(1);
+}
+.s_card:hover p{
+    color: whitesmoke;
+}
+.bg{
+    background-color: teal;
+}
